@@ -19,21 +19,17 @@ Welcome to the CSE 198 Outreach course website. This course offers students the 
 {: .important-title }
 > **Urgent**
 >
-> 1. **Ensure you have acheived the 5 point outreach minimum!**
+> 1. **Sign up for the HKN Portal using the link in the discord!**
 >    <br>
->    *Necessary for us to plan for you. Complete as soon as you have time.*
+>    *Necessary to view outreach events and plan your schedule!*
 >
-> 2. **Begin your Two Post-Lesson Reflections [here](docs/assignments/reflections.md)!**
+> 2. **Ensure you have joined the discord!**
 >    <br>
->    *One should be completed for each of your two CSE 198 Events. Due by EOD Friday, March 13th.*
->
-> 3. **Begin your Final Presentation [here](docs/assignments/final-presentation.md)!**
+>    *Primary communication channel for updates, reminders, group discussions, and ride scheduling.*
+
+> 3. **Review the [Course Syllabus](docs/syllabus.html)**
 >    <br>
->    *Presentation due in your Week 10 Weekly Meeting.*
->
-> 4. **Ensure you've submitted a Post-Lesson Feedback Form for each outreach event attended!**
->    <br>
->    *Should be completed for every attended event. Form is listed in the description on the portal. Due by EOD Wednesday, March 11th.*
+>    *Helpful for understanding the course requirements and expectations.*
 
 {: .note-title }
 > **Note**
