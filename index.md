@@ -26,7 +26,7 @@ Welcome to the CSE 198 Outreach course website. This course offers students the 
 > 2. **Ensure you have joined the discord!**
 >    <br>
 >    *Primary communication channel for updates, reminders, group discussions, and ride scheduling.*
-
+>
 > 3. **Review the [Course Syllabus](docs/syllabus.html)**
 >    <br>
 >    *Helpful for understanding the course requirements and expectations.*
