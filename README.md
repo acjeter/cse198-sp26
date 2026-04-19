@@ -1,4 +1,4 @@
-# CSE 198 Winter 2026 - Course Website
+# CSE 198 Spring 2026 - Course Website
 
 This repository hosts the course website for CSE 198 HKN Outreach, built with Jekyll and the "Just the Docs" theme.
 

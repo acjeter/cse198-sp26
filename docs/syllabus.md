@@ -12,7 +12,7 @@ permalink: /docs/syllabus.html
 **CSE 198: Eta Kappa Nu (HKN) Outreach**  
 **Directed Group Study — 2 units**
 
-[View Syllabus (Google Doc)](https://docs.google.com/document/d/1wiL3-jqTpfv2t_iJoTuCuH0k4If8qNjWFesCJYAmVBU/edit?usp=sharing){: .btn .btn-hollow target="_blank" }
+[View Syllabus (Google Doc)](#){: .btn .btn-hollow target="_blank" }
 
 
 ## Table of Contents
@@ -122,6 +122,8 @@ Because volunteers work with children, participants are considered mandated repo
 Complete these UCSD trainings by **Week 4**:
 - CANRA — California Mandated Reporter  
 - Abuse Risk Mgmt. for Volunteers  
+
+Find the trainings [here](docs/assignments/mandated-reporter.html).
 
 {: .note-title }
 > **Note**

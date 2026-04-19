@@ -1,4 +1,4 @@
-title: CSE 198 WI26
+title: CSE 198 SP26
 remote_theme: just-the-docs/just-the-docs
 
 plugins:
@@ -6,7 +6,7 @@ plugins:
 
 # Deployment Settings
 url: "https://www.andrewcjeter.com"
-baseurl: "/cse198-wi26"
+baseurl: "/cse198-sp26"
 
 # Navigation
 aux_links:
@@ -18,7 +18,7 @@ search_enabled: true
 heading_anchors: true
 
 # Footer
-footer_content: "CSE 198 Winter 2026 | Copyright © 2026 Andrew Jeter | University of California, San Diego"
+footer_content: "CSE 198 Spring 2026 | Copyright © 2026 Andrew Jeter | University of California, San Diego"
 
 # Collections (optional, enables _assignments folder if we want strict collection usage)
 collections:

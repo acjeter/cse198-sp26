@@ -16,7 +16,7 @@ All course deliverables should be submitted via the links below.
 |:------------|:------------------|
 | **Post-Lesson Feedback** | TBD |
 | **Reflections** | TBD |
-| **Mandated Reporter Cert** | [Google Form](https://forms.gle/K3jDPDJ11Q8DnPKs7) |
+| **Mandated Reporter Cert** | [Google Form](#) |
 | **Final Presentation Slides** | TBD |
 
 ## Submission Checklist

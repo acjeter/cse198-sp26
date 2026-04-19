@@ -1,69 +1,69 @@
 - week: 1
   dates: "Asynchronous"
-  topic: "Introduction & Logistics"
-  notes: "Sign up for Discord, HKN Portal account."
+  topic: "Course Enrollment"
+  notes: "Enrollment in progress."
   due: "Initial Survey (if applicable)"
   slides: ""
 
 - week: 2
-  dates: "Thurs/Fri, January 15/16, 5:00 PM - 6:00 PM"
-  topic: "Lesson Design Workshop"
-  notes: "Presentation skills, group assignments."
+  dates: "Asynchronous"
+  topic: "Course Enrollment"
+  notes: "Enrollment in progress."
   due: "Form groups for lessons."
-  slides: "<a href=\"/cse198-wi26/assets/files/Week2_CSE198_WI26.pdf\" target=\"_blank\">Week 2 Slides</a>"
+  slides: ""
 
 - week: 3
-  dates: "Thurs/Fri, January 22/23, 5:00 PM - 6:00 PM"
-  topic: "Lesson Design Workshop"
-  notes: "Continue work on lessons, begin outreach prep."
+  dates: "Monday, April 13, 6:00 PM - 7:00 PM, CSE 4258"
+  topic: "Introductions & Logistics"
+  notes: "Sign up for Discord, HKN Portal account."
   due: "-"
-  slides: "<a href=\"/cse198-wi26/assets/files/Week3_CSE198_WI26.pdf\" target=\"_blank\">Week 3 Slides</a>"
+  slides: ""
 
 - week: 4
-  dates: "Thurs/Fri, January 29/30, 5:00 PM - 6:00 PM"
+  dates: "Monday, April 20, 6:00 PM - 7:00 PM, CSE 4258"
   topic: "Lesson Design Workshop"
-  notes: "Continue work on lessons, begin prep for Lesson Dry-Runs."
-  due: "Mandated Reporter Training Certificate"
-  slides: "<a href=\"/cse198-wi26/assets/files/Week4_CSE198_WI26.pdf\" target=\"_blank\">Week 4 Slides</a>"
+  notes: "Begin work on lessons, begin prep for Lesson Dry-Runs."
+  due: "Mandated Reporter Training Certificates"
+  slides: ""
 
 - week: 5
-  dates: "Thurs/Fri, February 5/6, 5:00 PM - 6:00 PM"
+  dates: "Monday, April 27, 6:00 PM - 7:00 PM, CSE 4258"
   topic: "Lesson Dry-Run, Outreach Schedule Overview"
   notes: "Ensure you are on track for 5 event minimum."
-  due: "-"
-  slides: "<a href=\"/cse198-wi26/assets/files/Week5_CSE198_WI26.pdf\" target=\"_blank\">Week 5 Slides</a>"
+  due: "First week of outreach events."
+  slides: ""
 
 - week: 6
-  dates: "Thurs/Fri, February 12/13, 5:00 PM - 6:00 PM"
+  dates: "Monday, May 4, 6:00 PM - 7:00 PM, CSE 4258"
   topic: "Weekly Meeting / Outreach"
-  notes: "-"
+  notes: "Continue outreach events."
   due: "Reflections (ongoing)"
-  slides: "<a href=\"/cse198-wi26/assets/files/Week6_CSE198_WI26.pdf\" target=\"_blank\">Week 6 Slides</a>"
+  slides: ""
 
 - week: 7
-  dates: "Thurs/Fri, February 19/20, 5:00 PM - 6:00 PM"
+  dates: "Monday, May 11, 6:00 PM - 7:00 PM, CSE 4258"
   topic: "Weekly Meeting / Outreach"
-  notes: "-"
-  due: "-"
-  slides: "<a href=\"/cse198-wi26/assets/files/Week7_CSE198_WI26.pdf\" target=\"_blank\">Week 7 Slides</a>"
+  notes: "Continue outreach events."
+  due: "Reflections (ongoing)"
+  slides: ""
 
 - week: 8
-  dates: "Thurs/Fri, February 26/27, 5:00 PM - 6:00 PM"
+  dates: "Monday, May 18, 6:00 PM - 7:00 PM, CSE 4258"
   topic: "Weekly Meeting / Outreach"
-  notes: "-"
-  due: "Draft of Final Presentation (Optional review)"
-  slides: "<a href=\"/cse198-wi26/assets/files/Week8_CSE198_WI26.pdf\" target=\"_blank\">Week 8 Slides</a>"
+  notes: "FINAL WEEK FOR REGULAR OUTREACH EVENTS"
+  due: "Reflections (ongoing)"
+  slides: ""
 
 - week: 9
-  dates: "Thurs/Fri, March 5/6, 5:00 PM - 6:00 PM"
+  dates: "Monday, May 25, 6:00 PM - 7:00 PM, CSE 4258"
   topic: "Weekly Meeting / Outreach"
-  notes: "Last week for regular outreach."
+  notes: ""
   due: "All Reflections & Feedback Forms due soon."
   slides: ""
 
 - week: 10
-  dates: "Thurs/Fri, March 12/13, 5:00 PM - 6:00 PM"
+  dates: "Monday, June 1, 6:00 PM - 7:00 PM, CSE 4258"
   topic: "Final Presentations"
-  notes: "MANDATORY ATTENDANCE.3-minute individual presentations."
+  notes: "MANDATORY ATTENDANCE. 3-minute individual presentations."
   due: "Final Report / Presentation Slides"
   slides: ""

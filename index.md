@@ -7,7 +7,7 @@ nav_order: 1
 # CSE 198: HKN Outreach
 {: .fs-9 }
 
-**Winter 2026 Directed Group Study**
+**Spring 2026 Directed Group Study**
 {: .fs-6 .fw-300 }
 
 Welcome to the CSE 198 Outreach course website. This course offers students the unique opportunity to design and teach interactive K-12 lessons for socioeconomically disadvantaged students in the San Diego area, building invaluable transferable skills in teaching, public speaking, leadership, teamwork, and communication.

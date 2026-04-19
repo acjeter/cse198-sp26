@@ -18,7 +18,7 @@ permalink: /docs/assignments/mandated-reporter.html
 {: .important-title }
 > **Course Requirement**
 > 
-> You must complete both trainings in order to satisfy the requirement, and submit both certificates by EOD Sunday, February 1st.
+> You must complete both trainings in order to satisfy the requirement, and submit both certificates by EOD Sunday, April 26th.
 
 ### Training Modules:
 
@@ -27,5 +27,5 @@ permalink: /docs/assignments/mandated-reporter.html
 
 ### Submission:
 
-1. Once both are completed, access your "Completed Trainings" page, and view the certificates for each training. Please submit both certificates to the Mandated Reporter Training Google Form [here](https://forms.gle/K3jDPDJ11Q8DnPKs7) by EOD Sunday, February 1st.
+1. Once both are completed, access your "Completed Trainings" page, and view the certificates for each training. Please submit both certificates to the Mandated Reporter Training Google Form [here](https://forms.gle/K3jDPDJ11Q8DnPKs7) by EOD Sunday, April 26th.
 ![Steps for navigating to the "Completed Trainings" page](mandatedreportersteps.png)
