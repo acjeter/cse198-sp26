@@ -12,7 +12,7 @@ permalink: /docs/syllabus.html
 **CSE 198: Eta Kappa Nu (HKN) Outreach**  
 **Directed Group Study — 2 units**
 
-[View Syllabus (Google Doc)](#){: .btn .btn-hollow target="_blank" }
+[View Syllabus (Google Doc)](https://docs.google.com/document/d/12_1V_ETu7zuZWQPUqTx2t8aS3OYDq-sKG7NmeoxKksw/edit?usp=sharing){: .btn .btn-hollow target="_blank" }
 
 
 ## Table of Contents
